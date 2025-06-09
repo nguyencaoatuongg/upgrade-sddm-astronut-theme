@@ -128,6 +128,12 @@ chmod +x fi-sddm-astronut.sh
 ```sh
 sudo ./fi-sddm-astronut.sh
 ```
+4. Config
+```sh
+Press 1 and enter
+It will be show a choice to select theme
+You can press 1-10
+```
 **[Video tutorial](youtube.com)**
 
 ## Selecting a theme
