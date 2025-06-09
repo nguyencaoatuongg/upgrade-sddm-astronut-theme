@@ -1,4 +1,4 @@
-# sddm-astronaut-theme
+# sddm-astronaut-theme (but this is a upgrade edition)
 
 ![Stars](https://img.shields.io/github/stars/keyitdev/sddm-astronaut-theme?color=dd864a&labelColor=1b1b25&style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/keyitdev/sddm-astronaut-theme?color=bf616a&labelColor=1b1b25&style=for-the-badge)
