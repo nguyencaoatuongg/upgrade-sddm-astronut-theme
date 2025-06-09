@@ -116,7 +116,17 @@ It will be show a choice to select theme
 You can press 1-10
 ```
 ## Fast install (made by me!)
-1. Download file in [Realese](https://github.com/nguyencaoatuongg/realese)
+1. Download file in [Realese](https://github.com/nguyencaoatuongg/upgrade-sddm-astronut-theme/releases/tag/build)
+
+2. Grant execution permission for the file
+```sh
+chmod +x fi-sddm-astronut.sh
+```
+3. Run this file
+> Remember to always read this file you run from the internet and grant root permission
+```sh
+sudo ./fi-sddm-astronut.sh
+```
 
 
 ## Selecting a theme
