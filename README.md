@@ -89,7 +89,30 @@ Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
 echo "[General]
 InputMethod=qtvirtualkeyboard" | sudo tee /etc/sddm.conf.d/virtualkbd.conf
 ```
-
+### Installer made by me
+1. Clone another repoistory
+```sh
+git clone https://github.com/nguyencaoatuongg/sddm-theme-installer.git
+```
+2. Go to the folder
+```sh
+cd sddm-theme-installer
+```
+3. Grant execution permission
+```sh
+chmod +x sddm-astronut.sh
+```
+4. Run this file
+> Remember to always read this file you run from the internet and grant root permission
+```sh
+sudo ./sddm-astronut.sh
+```
+5. Config
+```sh
+Press 1 and enter
+It will be show a choice to select theme
+You can press 1-10
+```
 ## Selecting a theme
 
 You can select theme by editing [metadata](./metadata.desktop) (`/usr/share/sddm/themes/sddm-astronaut-theme/metadata.desktop`).
