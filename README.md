@@ -92,7 +92,7 @@ echo "[General]
 InputMethod=qtvirtualkeyboard" | sudo tee /etc/sddm.conf.d/virtualkbd.conf
 ```
 ### Installer made by me
-1. Clone another repoistory
+1. Clone another repoistory 
 ```sh
 git clone https://github.com/nguyencaoatuongg/sddm-theme-installer.git
 ```
@@ -115,6 +115,10 @@ Press 1 and enter
 It will be show a choice to select theme
 You can press 1-10
 ```
+## Fast install (made by me!)
+1. Download file in ** [Realese](https://github.com/nguyencaoatuongg/realese)**
+
+
 ## Selecting a theme
 
 You can select theme by editing [metadata](./metadata.desktop) (`/usr/share/sddm/themes/sddm-astronaut-theme/metadata.desktop`).
