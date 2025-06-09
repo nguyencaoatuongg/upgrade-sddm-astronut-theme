@@ -91,6 +91,7 @@ Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
 echo "[General]
 InputMethod=qtvirtualkeyboard" | sudo tee /etc/sddm.conf.d/virtualkbd.conf
 ```
+**[Video tutorial](youtube.com)**
 ### Installer made by me
 1. Clone another repoistory 
 ```sh
@@ -127,7 +128,7 @@ chmod +x fi-sddm-astronut.sh
 ```sh
 sudo ./fi-sddm-astronut.sh
 ```
-
+**[Video tutorial](youtube.com)**
 
 ## Selecting a theme
 
