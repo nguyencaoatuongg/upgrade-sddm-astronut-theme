@@ -91,7 +91,7 @@ Current=sddm-astronaut-theme" | sudo tee /etc/sddm.conf
 echo "[General]
 InputMethod=qtvirtualkeyboard" | sudo tee /etc/sddm.conf.d/virtualkbd.conf
 ```
-**[Video tutorial](youtube.com)**
+**[Video tutorial](https://youtu.be/K2J4v-vAecc)**
 ### Installer made by me
 1. Clone another repoistory 
 ```sh
@@ -134,7 +134,7 @@ Press 1 and enter
 It will be show a choice to select theme
 You can press 1-10
 ```
-**[Video tutorial](youtube.com)**
+**[Video tutorial](https://youtu.be/K2J4v-vAecc)**
 
 ## Selecting a theme
 
