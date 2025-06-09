@@ -116,7 +116,7 @@ It will be show a choice to select theme
 You can press 1-10
 ```
 ## Fast install (made by me!)
-1. Download file in ** [Realese](https://github.com/nguyencaoatuongg/realese)**
+1. Download file in [Realese](https://github.com/nguyencaoatuongg/realese)
 
 
 ## Selecting a theme
